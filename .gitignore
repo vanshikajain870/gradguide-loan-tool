@@ -1,0 +1,27 @@
+# Dependencies
+/node_modules
+/.pnpm-store
+
+# Next.js build output
+/.next/
+/out/
+
+# Production build
+/build
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Local environment variables
+.env*.local
+.env
+
+# Vitest / Jest coverage
+/coverage
+
+# Operating system files
+.DS_Store
+Thumbs.db
